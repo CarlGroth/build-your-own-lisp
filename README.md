@@ -1,6 +1,6 @@
 ## Carl's crappy lisp interpreter
 
-I saw [this post on hn about building your own X}(https://news.ycombinator.com/item?id=21430321) and this was the first thing I made from that list.
+I saw [this post on hn about building your own X](https://news.ycombinator.com/item?id=21430321) and this was the first thing I made from that list.
 
 ### The bad
 
